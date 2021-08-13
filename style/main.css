@@ -1,0 +1,18 @@
+*::selection {
+  color: rgb(68, 134, 255);
+  background-color: rgba(68, 134, 255, 0.1);
+}
+
+body {
+  background-color: rgba(68, 134, 255, 0.1);
+}
+div {
+  font-size: 5em;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
